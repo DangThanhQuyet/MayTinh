@@ -23,7 +23,7 @@ import java.awt.*;
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
-
+//chinh
 import javax.swing.*;
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
